@@ -1,0 +1,18 @@
+.item{
+    display: inline-block;
+    text-align: center;
+}
+.img-size{
+    width: 250px;
+    border-radius: 10px;
+}
+.film-title{
+    text-align: center;
+    /* background-color: red; */
+}
+.mint-btn{
+
+}
+.uploadModal{
+    margin-top: 50px;
+}
